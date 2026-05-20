@@ -1,4 +1,5 @@
 # Loan-Approval-Predictor
+Intern ID: CITS1152
 
 ## 📌 Project Overview
 This Machine Learning project predicts whether a loan application will be approved or rejected based on applicant details.
