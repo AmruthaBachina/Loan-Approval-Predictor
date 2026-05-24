@@ -1,14 +1,14 @@
 # Loan-Approval-Predictor
 Intern ID: CITS1152
 
-## 📌 Project Overview
+## Project Overview
 This Machine Learning project predicts whether a loan application will be approved or rejected based on applicant details.
 
 The project uses Python, Pandas, NumPy, Matplotlib, and Scikit-learn.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -18,7 +18,7 @@ The project uses Python, Pandas, NumPy, Matplotlib, and Scikit-learn.
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset contains:
 - Applicant Income
 - Loan Amount
@@ -30,7 +30,7 @@ The dataset contains:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 1. Data Loading
 2. Data Cleaning
 3. Data Analysis
@@ -40,7 +40,7 @@ The dataset contains:
 
 ---
 
-## 📊 Features
+## Features
 - Loan approval prediction
 - Missing value handling
 - Data visualization
@@ -49,12 +49,11 @@ The dataset contains:
 
 ---
 
-## 📸 Output
+## Output
 The model predicts whether the loan application will be approved or not.
 
 ---
 
-## 👩‍💻 Author
+## Author
 Amrutha Bachina
-
 Machine Learning Intern at CODTECH IT SOLUTIONS
