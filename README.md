@@ -56,4 +56,5 @@ The model predicts whether the loan application will be approved or not.
 
 ## Author
 Amrutha Bachina
+
 Machine Learning Intern at CODTECH IT SOLUTIONS
